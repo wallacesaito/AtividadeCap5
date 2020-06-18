@@ -1,0 +1,43 @@
+#center{
+    align-items: auto;
+    width:150px;
+    height:150px;
+}
+
+body{
+    background-color:#FF7256;
+    font-family: sans-serif;
+}
+
+.card{
+    box-shadow: #ccc;
+    background-color: white;
+    padding: 30px;
+    border-radius: 5px;
+    align-items: center;
+
+}
+
+.form {
+    width: 400px;
+    margin: auto;
+    width: 50%;
+    height: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-top{
+    text-align: center;
+}
+
+.imglogin{
+    border-radius: 50px;
+    width: 100px;
+    box-shadow: 0px 0px 5px #ccc;
+}
+
+.title{
+    color: #dc3545;
+}
